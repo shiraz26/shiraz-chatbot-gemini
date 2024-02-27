@@ -4,8 +4,8 @@ gemini-chatbot
 # select a framework: Vanilla
 # Select a Variant :Javascript
 
-npm install
-npm run dev
+# npm install
+# npm run dev
 In summary, the project leverages standard web technologies such as HTML, CSS, and JavaScript, along with specific libraries and tools like Tailwind CSS, Markdown-it, Vite, and the Google Generative AI API to create a functional and interactive chatbot web application.
  # for create API use Google AI Studio and use option create API Key
 # add file .env in project where you use own API key.
