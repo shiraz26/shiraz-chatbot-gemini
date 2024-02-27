@@ -1,5 +1,5 @@
 # shiraz-chatbot-gemini
-Gemini-Chatbot
+# Gemini-Chatbot
 # $ npm create vite@latest
 # select a framework: Vanilla
 # Select a Variant :Javascript
