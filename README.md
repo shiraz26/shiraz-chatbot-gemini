@@ -1,8 +1,8 @@
 # shiraz-chatbot-gemini
 gemini-chatbot
 # $ npm create vite@latest
-select a framework: Vanilla
-Select a Variant :Javascript
+# select a framework: Vanilla
+# Select a Variant :Javascript
 
 npm install
 npm run dev
