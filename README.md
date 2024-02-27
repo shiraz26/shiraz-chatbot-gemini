@@ -1,5 +1,6 @@
 # shiraz-chatbot-gemini
 # Gemini-Chatbot
+# After extract from zip gemini_chatbot_javascript-main use Command prompt and use these packages in below the line
 # $ npm create vite@latest
 # select a framework: Vanilla
 # Select a Variant :Javascript
