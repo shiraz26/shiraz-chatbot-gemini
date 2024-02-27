@@ -6,6 +6,11 @@
 # Select a Variant :Javascript
 
 # npm install
+# Install the SDK package
+
+To use the Gemini API in your own application, you need to install the GoogleGenerativeAI package for Node.js:
+
+# npm install @google/generative-ai
 # npm run dev
 In summary, the project leverages standard web technologies such as HTML, CSS, and JavaScript, along with specific libraries and tools like Tailwind CSS, Markdown-it, Vite, and the Google Generative AI API to create a functional and interactive chatbot web application.
  # for create API use Google AI Studio and use option create API Key
